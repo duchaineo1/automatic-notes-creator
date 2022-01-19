@@ -3,4 +3,4 @@
 ## Meetings
 
 
-## Toughts
+## Thoughts
